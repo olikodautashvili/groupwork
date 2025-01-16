@@ -1,4 +1,18 @@
 header {
-	display: inline-block;
 	background-color: blueviolet;
+	padding: 25px;
+	position: fixed;
+	width: 100%;
+	top: 0;
+}
+
+nav li {
+	padding-right: 50px;
+	display: inline-block;
+	font-size: 50px;
+}
+
+header a {
+	text-decoration: none;
+	color: white;
 }
